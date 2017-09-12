@@ -13,9 +13,7 @@
     "ext-curl": "*"
   },
   "require-dev": {
-    "phing/phing": "2.6.*",
-    "phpunit/phpunit": "3.7.*",
-    "squizlabs/php_codesniffer": "1.5.*"
+    "phing/phing": "2.6.*"
   },
   "autoload": {
     "psr-0": {"Everyman\\Neo4j":"lib/"}
